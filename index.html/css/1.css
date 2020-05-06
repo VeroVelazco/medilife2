@@ -1,0 +1,60 @@
+/*barra de navegacion*/
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #333;
+}
+li {
+float: left;
+}
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+li a:hover {
+background-color: #111;
+}
+/**/
+/*fondo*/
+body {
+background-image: url(./imagenes/primera.jpg) ;
+}
+/*info*/
+
+h1 {
+text-align: center;
+text-transform: uppercase;
+color: #4CAF50;
+}
+div {
+background-color: rgb(151, 208, 223);
+width: 400px;
+border: 5px solid rgb(77, 101, 112);
+padding: 80px;
+margin: 10px;
+}
+
+h1 {
+color: white;
+text-align: center;
+font-size: 90px;
+text-shadow: 2px 2px 5px rgb(132, 159, 241);
+}
+h2{
+color: black;
+text-align: center;
+font-size: 50px
+
+
+}
+  
+
+
+
+
+
